@@ -1,0 +1,36 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+
+    background-color: #F2F2F2;
+}
+
+.beginning {
+    background-color: #F2F2F2;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#enter {
+    
+    background: url(imgs/cover.png) no-repeat ;
+    background-size: contain;
+    background-position: center;
+    border: none;
+    width: 500px;
+}
+
+#enter:hover {
+    transition: 300ms;
+    background: url(imgs/journal.png) no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+#enter img{
+    width: 500px;
+    opacity: 0%;
+}
