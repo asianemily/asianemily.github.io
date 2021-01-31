@@ -17,7 +17,7 @@ body {
 
 #enter {
     
-    background: url(imgs/cover.png) no-repeat ;
+    background: url(cover.png) no-repeat ;
     background-size: contain;
     background-position: center;
     border: none;
@@ -26,7 +26,7 @@ body {
 
 #enter:hover {
     transition: 300ms;
-    background: url(imgs/journal.png) no-repeat;
+    background: url(journal.png) no-repeat;
     background-size: contain;
     background-position: center;
 }
