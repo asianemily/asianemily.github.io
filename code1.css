@@ -21,7 +21,7 @@ body {
     background-size: contain;
     background-position: center;
     border: none;
-    width: 500px;
+    width: 250px;
 }
 
 #enter:hover {
@@ -31,6 +31,6 @@ body {
     background-position: center;
 }
 #enter img{
-    width: 500px;
+    width: 250px;
     opacity: 0%;
 }
