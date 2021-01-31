@@ -29,9 +29,9 @@ body {
     background: url(journal.png) no-repeat;
     background-size: contain;
     background-position: center;
-    width: 250px;
+    width: 500px;
 }
 #enter img{
-    width: 250px;
+    width: 500px;
     opacity: 0%;
 }
